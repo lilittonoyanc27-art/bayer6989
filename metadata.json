@@ -1,0 +1,6 @@
+{
+  "name": "Pasapalabra 3D",
+  "description": "An interactive 3D word and gender guessing game from Armenian to Spanish based on the famous Pasapalabra rosco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
